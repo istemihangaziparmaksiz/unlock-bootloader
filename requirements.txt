@@ -1,0 +1,4 @@
+customtkinter
+git+https://github.com/bkerler/mtkclient.git
+pyinstaller
+colorama
